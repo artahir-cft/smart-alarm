@@ -17,7 +17,7 @@ Smart Alarm is an Android application that helps you wake up by requiring both b
 
 1. **Clone the repository:**
 	```
-	git clone <your-repo-url>
+	git clone https://github.com/artahir-cft/smart-alarm.git
 	```
 2. **Open in Android Studio:**
 	- Open the project folder in Android Studio.
